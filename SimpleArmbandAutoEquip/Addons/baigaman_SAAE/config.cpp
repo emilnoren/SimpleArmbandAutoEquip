@@ -3,7 +3,7 @@ class CfgPatches {
 			name = "Simple Armband Auto Equip";
 			author = "baigaman";
 			requiredVersion = 2.14;
-			requiredAddons[] = {"CBA_MAIN", "Armbands"};
+			requiredAddons[] = {"CBA_MAIN", "aceax_gearinfo", "Armbands"};
 			units[] = {};
 			weapons[] = {};
 	};
